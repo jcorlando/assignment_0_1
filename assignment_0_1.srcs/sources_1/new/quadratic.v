@@ -1,4 +1,4 @@
-`timescale 1ns / 1ps
+`timescale 1ns / 1ns
 
 module quadratic # (parameter WL_x = 8, WL_A = 4, WL_B = 4, WL_C = 4,
                     parameter signed [WL_A - 1 : 0] a = -4,
